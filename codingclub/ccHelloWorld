@@ -1,8 +1,0 @@
-// 16/9/25
-// Hello World
-
-public class ccHelloWorld{
-  public static void main(String[] args){
-    System.out.println("Hello, World!");
-  }
-}
